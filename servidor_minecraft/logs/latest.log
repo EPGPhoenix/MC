@@ -123,3 +123,22 @@
 [21:49:00] [Server thread/INFO]: EPG_Phoenix joined the game
 [22:00:16] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
 [22:00:16] [Server thread/INFO]: EPG_Phoenix left the game
+[22:42:13] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:50890] logged in with entity id 3170 at (207.30000001192093, 77.0, -209.69999998807907)
+[22:42:13] [Server thread/INFO]: EPG_Phoenix joined the game
+[22:43:28] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
+[22:43:28] [Server thread/INFO]: EPG_Phoenix left the game
+[22:43:32] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:53334] logged in with entity id 3279 at (203.93268219654735, 81.0, -217.13165139122526)
+[22:43:32] [Server thread/INFO]: EPG_Phoenix joined the game
+[22:46:04] [Server thread/INFO]: Stopping the server
+[22:46:05] [Server thread/INFO]: Stopping server
+[22:46:05] [Server thread/INFO]: Saving players
+[22:46:05] [Server thread/INFO]: Saving worlds
+[22:46:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:46:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:46:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
