@@ -91,3 +91,9 @@
 [21:23:52] [Server thread/INFO]: EPG_Phoenix left the game
 [21:23:58] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:47494] logged in with entity id 617 at (212.1736843080594, 79.0, -211.55695038168875)
 [21:23:58] [Server thread/INFO]: EPG_Phoenix joined the game
+[21:34:44] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
+[21:34:44] [Server thread/INFO]: EPG_Phoenix left the game
+[21:35:58] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:36560] logged in with entity id 1486 at (237.34203476746814, 83.0, -206.43783069210625)
+[21:35:58] [Server thread/INFO]: EPG_Phoenix joined the game
+[21:36:21] [Server thread/INFO]: Made EPG_Phoenix a server operator
+[21:36:28] [Server thread/INFO]: [EPG_Phoenix: Set the time to 1000]
