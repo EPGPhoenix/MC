@@ -1095,6 +1095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-06 03:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 03:03:12 +0000"
