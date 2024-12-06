@@ -240,3 +240,4 @@
 [03:15:06] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:57158] logged in with entity id 8687 at (172.3064117327234, 64.0, -236.0308758334076)
 [03:15:06] [Server thread/INFO]: EPG_Phoenix joined the game
 [03:20:31] [Server thread/INFO]: EPG_Phoenix has made the advancement [Best Friends Forever]
+[03:23:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=424, y=64, z=-577} fx{x=424, y=62, z=-577}
