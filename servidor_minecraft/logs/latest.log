@@ -260,3 +260,11 @@
 [04:09:17] [Server thread/INFO]: EPG_Phoenix left the game
 [04:09:17] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:36840] logged in with entity id 19051 at (486.4308328617626, 70.0, -622.1000867561314)
 [04:09:17] [Server thread/INFO]: EPG_Phoenix joined the game
+[04:19:10] [Server thread/INFO]: EPG_Phoenix lost connection: You logged in from another location
+[04:19:10] [Server thread/INFO]: EPG_Phoenix left the game
+[04:19:10] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:42592] logged in with entity id 20339 at (481.9736605417351, 63.0, -581.6999999880791)
+[04:19:10] [Server thread/INFO]: EPG_Phoenix joined the game
+[04:19:40] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
+[04:19:40] [Server thread/INFO]: EPG_Phoenix left the game
+[04:20:59] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:45236] logged in with entity id 20384 at (481.47773940638075, 64.0, -583.2323672362074)
+[04:20:59] [Server thread/INFO]: EPG_Phoenix joined the game
