@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-03 23:46:49 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-03 23:04:48 +0000"
@@ -309,6 +321,7 @@
     "criteria": {
       "cooked_beef": "2024-12-03 23:13:27 +0000",
       "mutton": "2024-12-03 23:08:46 +0000",
+      "bread": "2024-12-06 02:38:05 +0000",
       "rotten_flesh": "2024-12-03 21:39:11 +0000"
     },
     "done": false
@@ -529,6 +542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-03 23:03:28 +0000"
@@ -571,6 +590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-06 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-03 23:01:06 +0000"
@@ -587,9 +612,12 @@
     "criteria": {
       "minecraft:forest": "2024-12-03 21:19:39 +0000",
       "minecraft:mountains": "2024-12-03 23:09:31 +0000",
+      "minecraft:taiga": "2024-12-06 02:42:09 +0000",
+      "minecraft:taiga_hills": "2024-12-06 02:42:28 +0000",
       "minecraft:river": "2024-12-03 23:23:07 +0000",
       "minecraft:wooded_mountains": "2024-12-03 23:23:51 +0000",
-      "minecraft:wooded_hills": "2024-12-03 23:09:48 +0000"
+      "minecraft:wooded_hills": "2024-12-03 23:09:48 +0000",
+      "minecraft:plains": "2024-12-06 02:36:10 +0000"
     },
     "done": false
   },
@@ -614,6 +642,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-03 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
     },
     "done": true
   },
@@ -671,15 +705,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-03 23:46:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-03 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-06 02:37:17 +0000"
     },
     "done": true
   },
@@ -779,12 +831,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-03 23:11:06 +0000",
       "minecraft:spider": "2024-12-03 23:13:49 +0000",
       "minecraft:creeper": "2024-12-03 23:12:55 +0000",
-      "minecraft:zombie": "2024-12-03 22:55:10 +0000"
+      "minecraft:zombie": "2024-12-03 22:55:10 +0000",
+      "minecraft:zombie_villager": "2024-12-06 02:45:25 +0000"
     },
     "done": false
   },
@@ -896,9 +955,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-03 23:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-06 02:38:21 +0000"
     },
     "done": true
   },
