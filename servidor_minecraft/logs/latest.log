@@ -1,144 +1,204 @@
-[21:16:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:16:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:16:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:16:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:57] [main/INFO]: Reloading ResourceManager: Default
-[21:16:58] [Worker-Main-6/INFO]: Loaded 7 recipes
-[21:16:58] [Worker-Main-6/INFO]: Loaded 927 advancements
-[21:17:00] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[21:17:00] [Server thread/INFO]: Loading properties
-[21:17:00] [Server thread/INFO]: Default game type: SURVIVAL
-[21:17:00] [Server thread/INFO]: Generating keypair
-[21:17:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:17:01] [Server thread/INFO]: Using epoll channel type
-[21:17:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:17:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:17:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:17:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:17:01] [Server thread/INFO]: Preparing level "world"
-[21:17:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:17:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:06] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:10] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[21:17:11] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[21:17:11] [Worker-Main-5/INFO]: Preparing spawn area: 2%
-[21:17:12] [Worker-Main-6/INFO]: Preparing spawn area: 2%
-[21:17:12] [Worker-Main-6/INFO]: Preparing spawn area: 3%
-[21:17:13] [Worker-Main-5/INFO]: Preparing spawn area: 5%
-[21:17:13] [Worker-Main-4/INFO]: Preparing spawn area: 6%
-[21:17:14] [Worker-Main-5/INFO]: Preparing spawn area: 8%
-[21:17:14] [Worker-Main-4/INFO]: Preparing spawn area: 8%
-[21:17:15] [Worker-Main-6/INFO]: Preparing spawn area: 10%
-[21:17:15] [Worker-Main-6/INFO]: Preparing spawn area: 10%
-[21:17:16] [Worker-Main-6/INFO]: Preparing spawn area: 10%
-[21:17:16] [Worker-Main-6/INFO]: Preparing spawn area: 12%
-[21:17:17] [Worker-Main-6/INFO]: Preparing spawn area: 15%
-[21:17:17] [Worker-Main-5/INFO]: Preparing spawn area: 15%
-[21:17:18] [Worker-Main-4/INFO]: Preparing spawn area: 15%
-[21:17:18] [Worker-Main-4/INFO]: Preparing spawn area: 16%
-[21:17:19] [Worker-Main-6/INFO]: Preparing spawn area: 16%
-[21:17:19] [Worker-Main-5/INFO]: Preparing spawn area: 19%
-[21:17:20] [Worker-Main-4/INFO]: Preparing spawn area: 20%
-[21:17:20] [Worker-Main-5/INFO]: Preparing spawn area: 22%
-[21:17:21] [Worker-Main-5/INFO]: Preparing spawn area: 24%
-[21:17:21] [Worker-Main-6/INFO]: Preparing spawn area: 24%
-[21:17:22] [Worker-Main-5/INFO]: Preparing spawn area: 27%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 32%
-[21:17:23] [Worker-Main-5/INFO]: Preparing spawn area: 34%
-[21:17:24] [Worker-Main-6/INFO]: Preparing spawn area: 37%
-[21:17:24] [Worker-Main-4/INFO]: Preparing spawn area: 37%
-[21:17:25] [Worker-Main-5/INFO]: Preparing spawn area: 43%
-[21:17:25] [Worker-Main-5/INFO]: Preparing spawn area: 45%
-[21:17:26] [Worker-Main-6/INFO]: Preparing spawn area: 48%
-[21:17:26] [Worker-Main-6/INFO]: Preparing spawn area: 48%
-[21:17:27] [Worker-Main-6/INFO]: Preparing spawn area: 53%
-[21:17:27] [Worker-Main-6/INFO]: Preparing spawn area: 57%
-[21:17:27] [Worker-Main-4/INFO]: Preparing spawn area: 57%
-[21:17:29] [Worker-Main-6/INFO]: Preparing spawn area: 62%
-[21:17:29] [Worker-Main-6/INFO]: Preparing spawn area: 62%
-[21:17:29] [Worker-Main-6/INFO]: Preparing spawn area: 62%
-[21:17:30] [Worker-Main-6/INFO]: Preparing spawn area: 70%
-[21:17:30] [Worker-Main-6/INFO]: Preparing spawn area: 70%
-[21:17:31] [Worker-Main-5/INFO]: Preparing spawn area: 76%
-[21:17:31] [Worker-Main-5/INFO]: Preparing spawn area: 76%
-[21:17:31] [Worker-Main-4/INFO]: Preparing spawn area: 84%
-[21:17:32] [Worker-Main-4/INFO]: Preparing spawn area: 86%
-[21:17:33] [Worker-Main-4/INFO]: Preparing spawn area: 89%
-[21:17:33] [Worker-Main-4/INFO]: Preparing spawn area: 92%
-[21:17:34] [Worker-Main-5/INFO]: Preparing spawn area: 95%
-[21:17:34] [Server thread/INFO]: Time elapsed: 27927 ms
-[21:17:34] [Server thread/INFO]: Done (33.177s)! For help, type "help"
-[21:19:39] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:53592] logged in with entity id 295 at (210.5, 80.0, -209.5)
-[21:19:39] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:20:39] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:20:39] [Server thread/INFO]: EPG_Phoenix left the game
-[21:21:42] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:38506] logged in with entity id 460 at (213.16788939109787, 81.0, -207.953204832813)
-[21:21:42] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:21:58] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:21:58] [Server thread/INFO]: EPG_Phoenix left the game
-[21:22:22] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:54798] logged in with entity id 494 at (213.16788939109787, 81.0, -207.953204832813)
-[21:22:22] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:23:52] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:23:52] [Server thread/INFO]: EPG_Phoenix left the game
-[21:23:58] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:47494] logged in with entity id 617 at (212.1736843080594, 79.0, -211.55695038168875)
-[21:23:58] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:34:44] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:34:44] [Server thread/INFO]: EPG_Phoenix left the game
-[21:35:58] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:36560] logged in with entity id 1486 at (237.34203476746814, 83.0, -206.43783069210625)
-[21:35:58] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:36:21] [Server thread/INFO]: Made EPG_Phoenix a server operator
-[21:36:28] [Server thread/INFO]: [EPG_Phoenix: Set the time to 1000]
-[21:37:13] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:37:13] [Server thread/INFO]: EPG_Phoenix left the game
-[21:37:38] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:49190] logged in with entity id 1596 at (237.34203476746814, 83.0, -206.43783069210625)
-[21:37:38] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:37:54] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:37:54] [Server thread/INFO]: EPG_Phoenix left the game
-[21:38:29] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:51332] logged in with entity id 1622 at (237.34203476746814, 83.0, -206.43783069210625)
-[21:38:29] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:42:29] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:42:29] [Server thread/INFO]: EPG_Phoenix left the game
-[21:42:49] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:34164] logged in with entity id 2005 at (207.64823336044208, 77.0, -209.68036138721604)
-[21:42:49] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:44:35] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:44:35] [Server thread/INFO]: EPG_Phoenix left the game
-[21:44:57] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:53664] logged in with entity id 2143 at (207.64823336044208, 77.0, -209.68036138721604)
-[21:44:57] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:47:12] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:47:12] [Server thread/INFO]: EPG_Phoenix left the game
-[21:48:14] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:58214] logged in with entity id 2328 at (207.64823336044208, 77.0, -209.68036138721604)
-[21:48:14] [Server thread/INFO]: EPG_Phoenix joined the game
-[21:48:29] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[21:48:29] [Server thread/INFO]: EPG_Phoenix left the game
-[21:49:00] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:60118] logged in with entity id 2354 at (207.64823336044208, 77.0, -209.68036138721604)
-[21:49:00] [Server thread/INFO]: EPG_Phoenix joined the game
-[22:00:16] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[22:00:16] [Server thread/INFO]: EPG_Phoenix left the game
-[22:42:13] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:50890] logged in with entity id 3170 at (207.30000001192093, 77.0, -209.69999998807907)
-[22:42:13] [Server thread/INFO]: EPG_Phoenix joined the game
-[22:43:28] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
-[22:43:28] [Server thread/INFO]: EPG_Phoenix left the game
-[22:43:32] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:53334] logged in with entity id 3279 at (203.93268219654735, 81.0, -217.13165139122526)
-[22:43:32] [Server thread/INFO]: EPG_Phoenix joined the game
-[22:46:04] [Server thread/INFO]: Stopping the server
-[22:46:05] [Server thread/INFO]: Stopping server
-[22:46:05] [Server thread/INFO]: Saving players
-[22:46:05] [Server thread/INFO]: Saving worlds
-[22:46:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:46:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:46:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:30:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:30:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:30:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:30:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:30:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:30:43] [main/INFO]: Reloading ResourceManager: Default
+[02:30:44] [Worker-Main-6/INFO]: Loaded 7 recipes
+[02:30:45] [Worker-Main-6/INFO]: Loaded 927 advancements
+[02:30:47] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[02:30:47] [Server thread/INFO]: Loading properties
+[02:30:47] [Server thread/INFO]: Default game type: SURVIVAL
+[02:30:47] [Server thread/INFO]: Generating keypair
+[02:30:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:30:47] [Server thread/INFO]: Using epoll channel type
+[02:30:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:30:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:30:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:30:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:30:47] [Server thread/INFO]: Preparing level "world"
+[02:30:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:51] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:51] [Server thread/INFO]: Time elapsed: 3464 ms
+[02:30:51] [Server thread/INFO]: Done (3.720s)! For help, type "help"
+[02:32:00] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:52444] logged in with entity id 120 at (-437.31886121315523, 52.0, -1738.2302270122298)
+[02:32:00] [Server thread/INFO]: EPG_Phoenix joined the game
+[02:32:30] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
+[02:32:30] [Server thread/INFO]: EPG_Phoenix left the game
+[02:33:41] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:58646] logged in with entity id 387 at (-437.69999998807907, 52.0, -1738.7547849557961)
+[02:33:41] [Server thread/INFO]: EPG_Phoenix joined the game
+[02:34:11] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
+[02:34:11] [Server thread/INFO]: EPG_Phoenix left the game
+[02:34:25] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:42938] logged in with entity id 658 at (-437.69999998807907, 52.0, -1738.7547849557961)
+[02:34:25] [Server thread/INFO]: EPG_Phoenix joined the game
+[02:36:23] [Server thread/INFO]: SEBASSS[/0:0:0:0:0:0:0:1%0:59384] logged in with entity id 1128 at (213.35138649719164, 77.0, -218.23332228053437)
+[02:36:23] [Server thread/INFO]: SEBASSS joined the game
+[02:36:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=214, y=77, z=-217}
+[02:36:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=214, y=77, z=-218}
+[02:36:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=214, y=77, z=-217}
+[02:36:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=214, y=77, z=-218}
+[02:36:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=219, y=77, z=-219}
+[02:36:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=219, y=78, z=-219}
+[02:36:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=219, y=77, z=-219}
+[02:36:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=219, y=78, z=-219}
+[02:36:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=219, y=79, z=-219}
+[02:37:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=215, y=76, z=-219}
+[02:37:29] [Server thread/INFO]: SEBASSS lost connection: You logged in from another location
+[02:37:29] [Server thread/INFO]: SEBASSS left the game
+[02:37:29] [Server thread/INFO]: SEBASSS[/0:0:0:0:0:0:0:1%0:53430] logged in with entity id 1478 at (216.41018187862588, 77.0, -219.1595068737902)
+[02:37:29] [Server thread/INFO]: SEBASSS joined the game
+[02:38:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=216, y=80, z=-213}
+[02:38:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=215, y=79, z=-213}
+[02:38:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=213, y=78, z=-214}
+[02:38:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=213, y=78, z=-214}
+[02:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-201}
+[02:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-202}
+[02:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-202}
+[02:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-202}
+[02:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-201}
+[02:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-201}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-201}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-201}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-200}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=202, y=79, z=-199}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-199}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-199}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-199}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-199}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=79, z=-197}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=79, z=-198}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-199}
+[02:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=202, y=79, z=-198}
+[02:38:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-202}
+[02:38:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-202}
+[02:38:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-202}
+[02:38:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-202}
+[02:38:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-202}
+[02:38:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-202}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-202}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-201}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-201}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-201}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-200}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-200}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-200}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-199}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-199}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-199}
+[02:38:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=202, y=79, z=-199}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=202, y=79, z=-199}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-200}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-200}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-200}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-200}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-201}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-201}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-202}
+[02:38:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=204, y=80, z=-202}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-202}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=203, y=80, z=-202}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-201}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-201}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-201}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=202, y=79, z=-201}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-201}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=200, y=79, z=-198}
+[02:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-199}
+[02:38:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=202, y=79, z=-197}
+[02:38:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=205, y=80, z=-196}
+[02:38:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-196}
+[02:38:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=202, y=79, z=-197}
+[02:38:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=202, y=79, z=-197}
+[02:38:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-197}
+[02:38:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-197}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=200, y=79, z=-195}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=200, y=79, z=-195}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=200, y=79, z=-195}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-196}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-196}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=201, y=79, z=-196}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=200, y=79, z=-193}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=200, y=79, z=-195}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=199, y=80, z=-196}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-197}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-197}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-197}
+[02:38:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-197}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=200, y=79, z=-198}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=199, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=199, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=199, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=199, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=199, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=199, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=78, z=-200}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=77, z=-202}
+[02:38:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=77, z=-202}
+[02:38:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=77, z=-202}
+[02:38:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=77, z=-202}
+[02:38:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=196, y=76, z=-202}
+[02:38:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=196, y=76, z=-202}
+[02:38:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=196, y=76, z=-203}
+[02:38:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=196, y=76, z=-204}
+[02:38:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=77, z=-203}
+[02:38:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=76, z=-205}
+[02:38:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=198, y=77, z=-206}
+[02:38:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=76, z=-208}
+[02:38:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=76, z=-207}
+[02:38:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=76, z=-208}
+[02:38:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=76, z=-208}
+[02:38:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=76, z=-208}
+[02:38:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=197, y=76, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=196, y=76, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=195, y=76, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=195, y=76, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=195, y=76, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=195, y=76, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=195, y=76, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=195, y=76, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-208}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-207}
+[02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-207}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-206}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-205}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-205}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=76, z=-202}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=76, z=-202}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=76, z=-202}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-203}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=193, y=75, z=-203}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=211, y=75, z=-230} fx{x=192, y=75, z=-203}
+[02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=191, y=75, z=-203} fx{x=192, y=75, z=-207}
