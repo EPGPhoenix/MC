@@ -227,3 +227,16 @@
 [03:06:47] [Server thread/INFO]: <SEBASSS> metase a discord
 [03:10:42] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
 [03:10:42] [Server thread/INFO]: EPG_Phoenix left the game
+[03:11:04] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:55854] logged in with entity id 8185 at (196.01754466625295, 73.0, -231.69999998807907)
+[03:11:04] [Server thread/INFO]: EPG_Phoenix joined the game
+[03:12:11] [Server thread/INFO]: EPG_Phoenix was shot by Skeleton
+[03:14:18] [Server thread/INFO]: EPG_Phoenix lost connection: Disconnected
+[03:14:18] [Server thread/INFO]: EPG_Phoenix left the game
+[03:14:18] [Server thread/WARN]: handleDisconnection() called twice
+[03:14:18] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:39404] logged in with entity id 8615 at (172.3064117327234, 64.0, -236.0308758334076)
+[03:14:18] [Server thread/INFO]: EPG_Phoenix joined the game
+[03:14:48] [Server thread/INFO]: EPG_Phoenix lost connection: Timed out
+[03:14:48] [Server thread/INFO]: EPG_Phoenix left the game
+[03:15:06] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:57158] logged in with entity id 8687 at (172.3064117327234, 64.0, -236.0308758334076)
+[03:15:06] [Server thread/INFO]: EPG_Phoenix joined the game
+[03:20:31] [Server thread/INFO]: EPG_Phoenix has made the advancement [Best Friends Forever]
