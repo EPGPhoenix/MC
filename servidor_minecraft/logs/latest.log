@@ -55,3 +55,39 @@
 [02:41:51] [Server thread/INFO]: EPG_Phoenix left the game
 [02:49:15] [Server thread/INFO]: EPG_Phoenix[/0:0:0:0:0:0:0:1%0:51622] logged in with entity id 4793 at (373.3372086402217, 64.0, -595.2583668308993)
 [02:49:15] [Server thread/INFO]: EPG_Phoenix joined the game
+[03:06:33] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:33] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:33] [Server thread/INFO]: <EPG_Phoenix> ff
+[03:06:33] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:33] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:34] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:34] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:34] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:34] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:34] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:34] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:35] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:35] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:35] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:35] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:35] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:35] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:35] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:36] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:36] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:36] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:36] [Server thread/INFO]: <EPG_Phoenix> f
+[03:06:36] [Server thread/INFO]: <EPG_Phoenix> f
+[03:07:26] [Server thread/INFO]: Stopping the server
+[03:07:27] [Server thread/INFO]: Stopping server
+[03:07:27] [Server thread/INFO]: Saving players
+[03:07:27] [Server thread/INFO]: Saving worlds
+[03:07:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:07:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:07:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:07:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:07:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:07:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:07:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:07:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:07:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
